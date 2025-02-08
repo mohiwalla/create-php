@@ -1,0 +1,38 @@
+{
+	"name": "create-php",
+	"version": "1.0.1",
+	"description": "CLI tool to create a PHP project",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"bin": {
+		"create-php": "./index.js"
+	},
+	"keywords": [
+		"zx",
+		"php",
+		"php-cli",
+		"php-project",
+		"php-template",
+		"php-tailwindcss",
+		"php-npm",
+		"php-node",
+		"php-package",
+		"mohiwalla"
+	],
+	"bugs": {
+		"url": "https://github.com/mohiwalla/create-php/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mohiwalla/create-php.git"
+	},
+	"author": "mohiwalla",
+	"license": "MIT",
+	"dependencies": {
+		"readline-sync": "^1.4.10",
+		"zx": "^8.3.2"
+	}
+}
