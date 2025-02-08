@@ -1,6 +1,6 @@
 {
 	"name": "create-php",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "CLI tool to create a PHP project",
 	"main": "index.js",
 	"type": "module",
