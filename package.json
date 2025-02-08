@@ -1,6 +1,6 @@
 {
 	"name": "create-php",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "CLI tool to create a PHP project",
 	"main": "index.js",
 	"type": "module",
@@ -11,16 +11,29 @@
 		"create-php": "./index.js"
 	},
 	"keywords": [
-		"zx",
 		"php",
+		"nextjs",
+		"next.js",
+		"php js",
+		"php npm",
+		"mohiwalla",
+		"php-next.js",
+		"next.js-php",
+		"php-nextjs",
+		"nextjs-php",
+		"php routing",
+		"php project",
+		"php tailwind",
+		"php tailwindcss",
+		"php boilterplate",
+		"zx",
 		"php-cli",
 		"php-project",
 		"php-template",
 		"php-tailwindcss",
 		"php-npm",
 		"php-node",
-		"php-package",
-		"mohiwalla"
+		"php-package"
 	],
 	"bugs": {
 		"url": "https://github.com/mohiwalla/create-php/issues"
