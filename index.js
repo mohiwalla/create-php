@@ -19,4 +19,3 @@ await $`git clone --depth=1 https://github.com/mohiwalla/php-template ${projectN
 cd(projectName)
 
 await $`npm install`
-await $`npm run dev`
